@@ -113,6 +113,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
   🔐 - Discover and call paid per-request APIs for web search, market data, and enrichment, billed to a prepaid balance.
+- [ToolsMonk](https://toolsmonk.com) `https://toolsmonk.com/api/mcp`
+  [![ToolsMonk MCP connector](https://glama.ai/mcp/connectors/com.toolsmonk/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.toolsmonk/catalog)
+  🔓 - Find the right one of 255 free browser-based PDF, image, text and SEO tools by describing the task.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
