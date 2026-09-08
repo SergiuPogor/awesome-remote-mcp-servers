@@ -474,6 +474,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
+- [ResuMakeAi](https://www.resumakeai.com) `https://www.resumakeai.com/api/mcp`
+  [![ResuMakeAi MCP connector](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai/badges/score.svg)](https://glama.ai/mcp/connectors/com.resumakeai/resu-make-ai)
+  🔓 - Score a resume against a job description for ATS parsing, match percentage, and missing keywords.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
