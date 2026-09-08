@@ -286,6 +286,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
   🔓 - Hourly news sentiment and typed market events for 30 crypto pairs, source links on every signal, a published hash for every hour of history; data tools need a free key.
+- [StackEasy](https://www.stackeasy.ai/mcp) `https://data.stackeasy.ai/mcp`
+  🔐 - Your own credit cards in your AI: balances, utilization, best card for a purchase, and missed rewards, read only.
 - [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
   [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
   🔓 - On-chain TCG price oracle: 456K+ cards, calibrated risk forecasts, AI grading, loan terms; free reads, x402 paid tools.
