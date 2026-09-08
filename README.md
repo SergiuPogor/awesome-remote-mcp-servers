@@ -145,7 +145,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Send transactional email and manage sending domains.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
-  🔑 - Buy Czech and Slovak phone numbers, place calls, send SMS, and run a voice agent that answers them.
+  🔐 - Buy Czech and Slovak numbers, place calls, send SMS, run a voice agent; auth is an API key sent as a Bearer token.
 
 ### 📝 <a name="content-management"></a>Content Management
 
