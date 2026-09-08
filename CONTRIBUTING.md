@@ -64,10 +64,11 @@ The badge is optional but strongly encouraged. Not every server has one yet.
 
 ## How to contribute
 
-1. Fork the repository.
-2. Create a branch: `git checkout -b add-example-server`.
-3. Edit `README.md`.
-4. Commit and push, then open a pull request describing what the server does.
+1. Star the repository. **This is required — PRs are not merged unless the account opening them has starred the repo.**
+2. Fork the repository.
+3. Create a branch: `git checkout -b add-example-server`.
+4. Edit `README.md`.
+5. Commit and push, then open a pull request describing what the server does.
 
 CI will label your PR with what it found — whether the endpoint answered, which auth it detected, and whether the badge resolves. If a check disagrees with your entry, fix the entry rather than the check.
 
