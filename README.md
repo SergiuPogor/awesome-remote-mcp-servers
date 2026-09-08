@@ -333,6 +333,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Analyze FTIR spectra, search spectral libraries, and retrieve peak and literature evidence.
 - [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
   🔓 - Verified gluten-free product catalogue and comparison data for the French market.
+- [GovAuctions.app](https://govauctions.app) `https://govauctions.app/api/mcp`
+  [![GovAuctions.app MCP connector](https://glama.ai/mcp/connectors/app.govauctions/govauctions/badges/score.svg)](https://glama.ai/mcp/connectors/app.govauctions/govauctions)
+  🔑 - Search live government surplus auction lots in the US, UK, CA and AU, with sold-price comps and resale scores.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
