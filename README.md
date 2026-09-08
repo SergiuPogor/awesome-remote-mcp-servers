@@ -233,6 +233,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and fetch verified KiCad parts (symbol, footprint, 3D model) for AI-assisted PCB design — 21k+ parts, CC-BY-4.0, no account needed.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
+- [Razi Tools](https://www.razi.pro/developer) `https://www.razi.pro/api/mcp`
+  [![Razi Tools MCP connector](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.razikallayi/razi-tools)
+  🔓 - 28 file and text tools: merge, split and compress PDFs, OCR, image compression, SQL, QR codes, JWTs and mock data.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
