@@ -476,6 +476,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PostLake](https://postlake.dev) `https://api.postlake.dev/mcp`
   [![PostLake MCP connector](https://glama.ai/mcp/connectors/dev.postlake/social/badges/score.svg)](https://glama.ai/mcp/connectors/dev.postlake/social)
   🔐 - Publish, schedule, and read analytics across X, LinkedIn, Instagram, TikTok, Facebook, Threads, Bluesky, YouTube, and Pinterest from one hosted MCP server.
+- [SocialBu](https://socialbu.com/mcp-server) `https://socialbu.com/mcp`
+  [![SocialBu MCP connector](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usamaejaz/socialbu-mcp)
+  🔐 - Create, schedule, publish, and analyze social media content; manage accounts, teams, and automations.
 
 - [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
   🔓 - Hosted MCP for a social media scraping API: public profiles, posts, comments, and transcripts, live on every request.
