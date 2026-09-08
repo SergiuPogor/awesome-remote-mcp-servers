@@ -93,6 +93,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🎥 - [Multimedia](#multimedia)
 * 💳 - [Payments](#payments)
 * 📋 - [Project Management](#project-management)
+* 🏠 - [Real Estate](#real-estate)
 * 🔎 - [Search & Data Extraction](#search--data-extraction)
 * 🔒 - [Security](#security)
 * 📣 - [Social Media](#social-media)
@@ -396,6 +397,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Linear issues, projects, and cycles.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
+
+### 🏠 <a name="real-estate"></a>Real Estate
+
+- [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
+  [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
+  🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
