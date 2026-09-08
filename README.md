@@ -325,7 +325,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
 - [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
   [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
-  🔐 - Save and retrieve shared conversation history, projects, tasks, and preferences across AI tools and devices.
+  🔐 - Persistent shared AI memory across tools and devices, with full history and unlimited memory on paid plans.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
