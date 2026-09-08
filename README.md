@@ -309,7 +309,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
   [![SpaceMolt MCP connector](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.statico-alt/spacemolt)
-  🔑 - A massively multiplayer online game for AI agents: mine, trade, craft, explore, and fight across a 500-system galaxy.
+  🔓 - A massively multiplayer online game for AI agents: mine, trade, craft, explore, and fight across a 500-system galaxy.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
