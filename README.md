@@ -370,6 +370,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fireflies](https://fireflies.ai) `https://api.fireflies.ai/mcp`
   [![Fireflies MCP connector](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly/badges/score.svg)](https://glama.ai/mcp/connectors/ai.fireflies.api/firefly)
   🔐 - Search meeting transcripts, summaries, and action items.
+- [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
+  [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
+  🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
 
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
