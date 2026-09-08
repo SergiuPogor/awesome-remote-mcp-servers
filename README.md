@@ -81,6 +81,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 👤 - [CRM](#crm)
 * 🗄️ - [Databases](#databases)
 * 🛠️ - [Developer Tools](#developer-tools)
+* 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment](#environment)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
@@ -216,6 +217,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
+
+### 🛒 <a name="e-commerce"></a>E-Commerce
+
+- [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
+  🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 
 ### 🌳 <a name="environment"></a>Environment
 
