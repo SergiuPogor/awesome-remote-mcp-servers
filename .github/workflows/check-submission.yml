@@ -93,7 +93,6 @@ jobs:
             const duplicates = entries.filter(e => existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
 
             const AUTH = ['🔓', '🔑', '🔐'];
-            const ACCESS = ['🆓', '💰'];
 
             const formatProblems = [];
             for (const e of fresh) {
@@ -106,7 +105,7 @@ jobs:
               }
               const unknown = [...e.marks].filter(ch =>
                 /\p{Extended_Pictographic}/u.test(ch) &&
-                ![...AUTH, ...ACCESS].some(k => k.includes(ch))
+                !AUTH.some(k => k.includes(ch))
               );
               if (unknown.length) {
                 formatProblems.push(`\`${e.name}\` – unrecognized marker(s): ${unknown.join(' ')}`);

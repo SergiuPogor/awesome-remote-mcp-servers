@@ -5,8 +5,7 @@ Adding a remote MCP server? Keep the entry in this shape and delete the rest of 
   [![Name MCP connector](https://glama.ai/mcp/connectors/com.example/name/badges/score.svg)](https://glama.ai/mcp/connectors/com.example/name)
   🔐 - One sentence describing what the tools do.
 
-Auth:   🔓 none · 🔑 API key · 🔐 OAuth
-Access: 🆓 no account required · 💰 paid plan required (omit otherwise)
+Auth: 🔓 none · 🔑 API key · 🔐 OAuth
 -->
 
 **Server:**

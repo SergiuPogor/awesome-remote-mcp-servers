@@ -42,8 +42,6 @@ Every entry needs an authentication marker:
 | 🔑 | API key or token |
 | 🔐 | OAuth |
 
-Then, optionally, one access marker: 🆓 if no account is required at all, 💰 if a paid plan is required. Leave it off when the endpoint comes with a normal free-or-paid account.
-
 ### Glama connector badge
 
 The badge shows tool definition quality and endpoint health, so readers can tell a maintained server from an abandoned one.
