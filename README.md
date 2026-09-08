@@ -279,7 +279,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Live US sector rotation: 30 sector baskets ranked every session, versioned rosters, daily record; history needs a key.
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
-  🔑 - Hourly news sentiment and typed market events for 30 crypto pairs, with source links on every signal and a published hash for every hour of history.
+  🔓 - Hourly news sentiment and typed market events for 30 crypto pairs, source links on every signal, a published hash for every hour of history; data tools need a free key.
 - [The Undesirables TCG Oracle](https://the-undesirables.com) `https://mcp.the-undesirables.com/mcp`
   [![The Undesirables TCG Oracle MCP connector](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sailorpepe/undesirables-mcp-server)
   🔓 - On-chain TCG price oracle: 456K+ cards, calibrated risk forecasts, AI grading, loan terms; free reads, x402 paid tools.
