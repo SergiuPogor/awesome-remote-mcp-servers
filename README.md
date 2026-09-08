@@ -213,6 +213,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search and fetch verified KiCad parts (symbol, footprint, 3D model) for AI-assisted PCB design — 21k+ parts, CC-BY-4.0, no account needed.
 - [Postman](https://postman.com) `https://mcp.postman.com/mcp`
   🔐 - Work with Postman collections, environments, and APIs.
+- [Python Code Validator](https://api.statemind.ai) `https://api.statemind.ai/mcp`
+  [![Python Code Validator MCP connector](https://glama.ai/mcp/connectors/ai.statemind/python-code-validator/badges/score.svg)](https://glama.ai/mcp/connectors/ai.statemind/python-code-validator)
+  🔑 - Validate AI-generated Python: syntax, lint, security policy, sandboxed run against stated examples, and repair.
 - [UI Verify](https://uiverify.ai) `https://uiverify.ai/api/mcp`
   [![UI Verify MCP connector](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.uiverify/ui-verify)
   🔓 - Audit a web page for accessibility and layout issues.
