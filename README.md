@@ -265,6 +265,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LogoKit](https://logokit.com) `https://mcp.logokit.com/mcp`
   [![LogoKit MCP connector](https://glama.ai/mcp/connectors/com.logokit/brand-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.logokit/brand-data)
   🔑 - Company logos, brand colors, and firmographic data by domain.
+- [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
+  🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
