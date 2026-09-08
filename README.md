@@ -73,6 +73,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Servers
 
 * 🔗 - [Aggregators](#aggregators)
+* 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🎨 - [Art & Design](#art--design)
 * 🌐 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
@@ -109,6 +110,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
+
+### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
+
+- [Elicitly](https://www.elicitly.ai) `https://mcp.elicitly.ai/mcp`
+  [![Elicitly MCP connector](https://glama.ai/mcp/connectors/ai.elicitly/pro/badges/score.svg)](https://glama.ai/mcp/connectors/ai.elicitly/pro)
+  🔐 - Human-in-the-loop for AI agents: confirmations, forms, and durable approvals that reach any device, with an audit trail.
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
