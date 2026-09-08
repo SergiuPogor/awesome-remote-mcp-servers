@@ -379,6 +379,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![OmniSocials MCP connector](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnisocials.mcp/omni-socials)
   🔑 - Publish and schedule posts across social networks.
 
+- [Social Fetch](https://www.socialfetch.dev) `https://api.socialfetch.dev/mcp`
+  🔐 - Hosted MCP for a social media scraping API: public profiles, posts, comments, and transcripts, live on every request.
+
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
 - [Intercom](https://intercom.com) `https://mcp.intercom.com/mcp`
