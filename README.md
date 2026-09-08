@@ -84,6 +84,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🌳 - [Environment](#environment)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
+* 🍽️ - [Food & Dining](#food--dining)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
@@ -242,6 +243,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
+
+### 🍽️ <a name="food--dining"></a>Food & Dining
+
+- [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
+  [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
+  🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
