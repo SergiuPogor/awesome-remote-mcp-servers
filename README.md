@@ -323,6 +323,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
+- [Vilix AI](https://vilix.ai) `https://api.vilix.ai/mcp`
+  [![Vilix AI MCP connector](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vilix.api/vilix-ai)
+  🔐 - Save and retrieve shared conversation history, projects, tasks, and preferences across AI tools and devices.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
