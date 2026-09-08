@@ -108,6 +108,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Hubris MCP connector](https://glama.ai/mcp/connectors/pw.hubris.api/hubris/badges/score.svg)](https://glama.ai/mcp/connectors/pw.hubris.api/hubris)
   🔐 - Catalogue of 500+ LLMs with ruble pricing, account balance, and chat completions with parity to /v1/chat/completions.
 - [nohumans.directory](https://nohumans.directory) `https://api.nohumans.directory/mcp`
+  [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
 - [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
   [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
