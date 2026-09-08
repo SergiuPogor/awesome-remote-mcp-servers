@@ -150,7 +150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vercel](https://vercel.com) `https://mcp.vercel.com`
   [![Vercel MCP connector](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vercel/vercel-mcp)
   🔐 - Manage Vercel projects, deployments, and logs.
-
+- [FARPY](https://farpy.com) ☁️ `https://api.farpy.com/mcp`
+  🔑 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
+  
 ### 💬 <a name="communication"></a>Communication
 
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
