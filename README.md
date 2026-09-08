@@ -251,6 +251,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
+- [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
+  🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 
 ### 🌳 <a name="environment"></a>Environment
 
