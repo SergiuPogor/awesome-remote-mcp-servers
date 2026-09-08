@@ -374,7 +374,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🧰 <a name="other-tools--integrations"></a>Other Tools & Integrations
 
 - [BioVet](https://bio.vet/) `https://bio.vet/mcp`
-  🔓 🆓 - Find a 24/7 veterinary clinic in Moscow, check live prices and doctor availability, book a visit, and triage symptoms or foods for urgency.
+  [![BioVet MCP connector](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/vet.bio/biovet-mcp)
+  🔓 - Find a 24/7 vet clinic in Moscow, check live prices and free doctor slots, book a visit, and triage symptoms.
 - [Human Design](https://www.gethumandesign.com/mcp-docs/) `https://api.gethumandesign.com/mcp`
   [![Human Design MCP connector](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.gethumandesign.www/mcp)
   🔐 - Calculate Human Design bodygraphs from birth data, compare two people, and analyse group dynamics.
