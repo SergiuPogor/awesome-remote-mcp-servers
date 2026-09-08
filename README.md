@@ -297,6 +297,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Grafana](https://grafana.com) `https://mcp.grafana.com/mcp`
   [![Grafana MCP connector](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.grafana/mcp-grafana)
   🔐 - Query Grafana dashboards, datasources, and alerts.
+- [MCPulse](https://getmcpulse.com) `https://api.getmcpulse.com/mcp`
+  [![MCPulse MCP connector](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmcpulse.api/mcpulse)
+  🔐 - Query your own MCP server's tool calls, first-call success, retries, empty results, and schema cost.
 - [Rootly](https://rootly.com) `https://mcp.rootly.com/mcp`
   🔐 - Manage Rootly incidents, alerts, and on-call schedules.
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
