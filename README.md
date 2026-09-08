@@ -326,6 +326,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [AfterLaunch](https://afterlaunch.io) `https://afterlaunch.io/api/mcp`
+  [![AfterLaunch MCP connector](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing/badges/score.svg)](https://glama.ai/mcp/connectors/io.afterlaunch/agentic-growth-marketing)
+  🔓 - AI answer visibility, SEO and a ranked backlog of growth moves as agent tools; tool calls need an AfterLaunch account.
 - [BizIntel](https://mcp-bizintel-production.up.railway.app) `https://mcp-bizintel-production.up.railway.app/mcp`
   [![BizIntel MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/bizintel)
   🔓 - Audit websites, score local-business leads, detect technology stacks, and find businesses missing websites or booking systems.
