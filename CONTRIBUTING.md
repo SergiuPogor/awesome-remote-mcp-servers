@@ -30,7 +30,7 @@ One entry, two or three lines:
 1. **Name and homepage.** Link the name to the product's homepage or docs — not a GitHub repo. Most remote servers are hosted services, and the endpoint is the thing being listed.
 2. **Endpoint** in backticks, exactly as a user would paste it into a client.
 3. **Glama connector badge** (optional, second line). See below.
-4. **Markers**, then ` - `, then a one-sentence description ending in a period.
+4. **Markers**, then ` - `, then a one-sentence description ending in a period, up to 120 characters.
 
 ### Markers
 
