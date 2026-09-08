@@ -101,6 +101,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [TaskFuel](https://taskfuel.ai) `https://app.taskfuel.ai/mcp`
+  [![TaskFuel MCP connector](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai/badges/score.svg)](https://glama.ai/mcp/connectors/ai.taskfuel.app/task-fuelai)
+  🔐 - Discover and call paid per-request APIs for web search, market data, and enrichment, billed to a prepaid balance.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
