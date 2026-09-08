@@ -235,6 +235,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ambee](https://ambeedata.com) `https://api-mcp-server.ambeedata.com/mcp`
   [![Ambee MCP connector](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee/badges/score.svg)](https://glama.ai/mcp/connectors/com.ambeedata.api-mcp-server/mcp-ambee)
   🔓 - Weather, air quality, pollen, and other environmental data.
+- [kanari](https://kanari.io) `https://kanari.io/api/mcp`
+  [![kanari MCP connector](https://glama.ai/mcp/connectors/io.github.vria-consulting/kanari-wildfires/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vria-consulting/kanari-wildfires)
+  🔓 - Near real-time wildfire ignitions worldwide: active fires, archive search, stats, live water bombers, earliness cases.
 
 ### 📂 <a name="file-storage"></a>File Storage
 
