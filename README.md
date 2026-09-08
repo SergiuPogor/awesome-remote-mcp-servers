@@ -390,6 +390,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
+- [APIzone](https://apizone.io) `https://apizone.io/api/mcp`
+  🔓 - Check whether a third-party API is down, look up uptime history, or list recent outages across 294 independently-probed APIs (Stripe, OpenAI, AWS, GitHub, etc.).
 - [Cloudflare Observability](https://developers.cloudflare.com) `https://observability.mcp.cloudflare.com/mcp`
   🔐 - Query Workers logs, analytics, and error events.
 - [Grafana](https://grafana.com) `https://mcp.grafana.com/mcp`
