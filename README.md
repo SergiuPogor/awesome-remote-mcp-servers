@@ -87,6 +87,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
 * 🍽️ - [Food & Dining](#food--dining)
+* 🎮 - [Gaming](#gaming)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
@@ -303,6 +304,11 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+
+### 🎮 <a name="gaming"></a>Gaming
+
+- [SpaceMolt](https://www.spacemolt.com) `https://game.spacemolt.com/mcp/v2`
+  🔑 - A massively multiplayer online game for AI agents: mine, trade, craft, explore, and fight across a 500-system galaxy.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
