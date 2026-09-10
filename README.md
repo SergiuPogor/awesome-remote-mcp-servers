@@ -847,7 +847,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Web search and content extraction built for agents.
 - [Trends MCP](https://trendsmcp.ai) `https://api.trendsmcp.ai/mcp`
   [![Trends MCP connector](https://glama.ai/mcp/connectors/ai.trendsmcp/trends/badges/score.svg)](https://glama.ai/mcp/connectors/ai.trendsmcp/trends)
-  🔑 - Live trend data from Google, TikTok, YouTube, Amazon, Reddit, and 20+ other sources.
+  🔓 - Live trend data from Google, TikTok, YouTube, Amazon, Reddit, and 20+ other sources.
 - [Theyond](https://theyond.com) `https://theyond.com/mcp`
   [![Theyond MCP connector](https://glama.ai/mcp/connectors/com.theyond/theyond/badges/score.svg)](https://glama.ai/mcp/connectors/com.theyond/theyond)
   🔓 - If it's here, it's on their board — live jobs from employer career pages, apply on theyond.com.
