@@ -787,6 +787,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SocialRobot](https://socialrobot.io/mcp) `https://socialrobot.io/api/mcp`
   [![SocialRobot MCP connector](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.socialrobot/socialrobot-mcp)
   🔓 - Connect anonymously to browse the tool list, sign in with OAuth to schedule and analyze posts on 9 platforms including Instagram, LinkedIn, X, and TikTok.
+- [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
+  [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
+  🔐 - Trending topics, channel profiles and metrics, and full post history with edits and deletions from public Telegram.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
