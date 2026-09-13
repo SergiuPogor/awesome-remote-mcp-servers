@@ -618,6 +618,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sentry](https://sentry.io) `https://mcp.sentry.dev/mcp`
   [![Sentry MCP connector](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry/badges/score.svg)](https://glama.ai/mcp/connectors/dev.sentry.mcp/sentry)
   🔐 - Investigate Sentry issues, events, and releases, and run Seer root-cause analysis.
+- [Statable](https://statable.com) `https://mcp.statable.com/mcp`
+  [![Statable MCP connector](https://glama.ai/mcp/connectors/com.statable.mcp/statable-analytics/badges/score.svg)](https://glama.ai/mcp/connectors/com.statable.mcp/statable-analytics)
+  🔐 - Privacy-first, cookieless web analytics hosted in the EU: visitors, sources, goals, funnels and live traffic.
 
 ### 🎥 <a name="multimedia"></a>Multimedia
 
