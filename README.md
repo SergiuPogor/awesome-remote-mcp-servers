@@ -789,7 +789,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Connect anonymously to browse the tool list, sign in with OAuth to schedule and analyze posts on 9 platforms including Instagram, LinkedIn, X, and TikTok.
 - [Statiko](https://statiko.io/product/mcp) `https://mcp.statiko.io/mcp`
   [![Statiko MCP connector](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko/badges/score.svg)](https://glama.ai/mcp/connectors/io.statiko.mcp/statiko)
-  🔓 - Browse the tools anonymously, sign in with OAuth to query trending topics, channel metrics and post history from public Telegram.
+  🔓 - Browse tools anonymously, sign in with OAuth for trending topics, channel metrics and post history from public Telegram.
 - [Superpowers.social](https://superpowers.social) `https://superpowers.social/mcp`
   [![Superpowers.social MCP connector](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers/badges/score.svg)](https://glama.ai/mcp/connectors/social.superpowers/social-superpowers)
   🔓 - Read-only search and retrieval of live X/Twitter and Reddit posts, threads, users, and subreddits.
