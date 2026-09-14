@@ -667,6 +667,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Linear](https://linear.app) `https://mcp.linear.app/mcp`
   [![Linear MCP connector](https://glama.ai/mcp/connectors/app.linear/linear/badges/score.svg)](https://glama.ai/mcp/connectors/app.linear/linear)
   🔐 - Manage Linear issues, projects, and cycles.
+- [mcptask.online](https://mcptask.online) `https://mcptask.online/mcp`
+  🔑 - Task queue for humans and AI coding agents: the runner pulls the next task over MCP, logs progress and opens pull requests on GitHub, GitLab or Bitbucket.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
