@@ -410,6 +410,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Fi-Plan](https://www.fi-plan.in) `https://www.fi-plan.in/mcp`
   [![Fi-Plan MCP connector](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan/badges/score.svg)](https://glama.ai/mcp/connectors/in.fi-plan/fi-plan)
   🔓 - Financial simulator for Indian salaries: loans, taxes, SIPs, and 50-year FIRE plans.
+- [FlexYield](https://flexyield.io) `https://flexyield.io/mcp`
+  [![FlexYield MCP connector](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.flexyield/flex-yield-blockchain-rpc-gateway)
+  🔓 - Blockchain RPC gateway for agents: six mainnets with measured failover, a key without signup (get_key), pay per call in USDC over x402 on Base; balances, history, ABI, gas and transaction tools.
 - [Fruit Stand](https://fruitstand.dev) `https://api.fruitstand.dev/mcp`
   [![Fruit Stand MCP connector](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fruitstand/fund-returns)
   🔓 - Historical return data for funds and tickers.
