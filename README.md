@@ -144,7 +144,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Publish needs and offers through your AI and get private matches, with contact details revealed only on a match.
 - [Pushary](https://pushary.com) `https://pushary.com/api/mcp/mcp`
   [![Pushary MCP connector](https://glama.ai/mcp/connectors/com.pushary/pushary/badges/score.svg)](https://glama.ai/mcp/connectors/com.pushary/pushary)
-  🔑 - Send phone notifications and ask humans for approvals, choices, or text while an AI agent waits.
+  🔓 🔑 - Public discovery; API key required to send phone notifications and ask for approvals, choices, or text.
 
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
