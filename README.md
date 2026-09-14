@@ -840,6 +840,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Applyd](https://aiapplyd.com/mcps) `https://mcp.aiapplyd.com/mcp`
   [![AI Applyd MCP connector](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.whateverneveranywhere/aiapplyd)
   🔓 - ATS resume scoring, per-role resume rewriting, cover letters, interview prep, job matching, and auto-apply that submits on the employer's own hiring system across 12 ATS platforms. Sign in with Google to run a tool.
+- [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
+  [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
+  🔓 - Business Central knowledge, Dynamics NAV lifecycle dates, ERP migration estimators and compliance deadlines by country.
 - [Deoochform](https://deoochform.com) `https://deoochform.com/api/mcp/v2`
   [![Deoochform MCP connector](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.musaib001/deooch-forms)
   🔐 - Create forms, read submissions, and build invitations. Respondents answer a public link without an account.
