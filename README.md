@@ -206,6 +206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
   [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
+- [Foliyo](https://foliyo.io) `https://foliyo.io/mcp`
+  [![Foliyo MCP connector](https://glama.ai/mcp/connectors/io.foliyo/foliyo/badges/score.svg)](https://glama.ai/mcp/connectors/io.foliyo/foliyo)
+  🔐 - Create, brand, publish and track client-ready reports, proposals and research pages.
 - [GoodBarber](https://www.goodbarber.com/mcp/) `https://mcp.goodbarber.dev/mcp/sse`
   [![GoodBarber MCP connector](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.goodbarber/goodbarber-public-mcp)
   🔐 - Manage a GoodBarber no-code app: content, push notifications, shop orders, members, and analytics.
