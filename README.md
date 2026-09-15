@@ -543,6 +543,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search, and write a team workspace of documents, tables, spreadsheets, issue trackers, and CRM records, with answers citing the source paragraph.
+- [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
+  [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
+  🔐 - Search, read, and write back to your personal context: articles, threads, PDFs, notes, and saved AI chats as Markdown.
 - [UseMyContext](https://usemycontext.ai) `https://mcp.usemycontext.ai/mcp`
   [![UseMyContext MCP connector](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext)
   🔓 - Your own profile and files, read by any MCP client. OAuth unlocks your context; anonymous gets metadata only.
