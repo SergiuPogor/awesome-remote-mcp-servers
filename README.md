@@ -886,6 +886,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![VoyageHacks MCP connector](https://glama.ai/mcp/connectors/com.voyagehacks/travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.voyagehacks/travel)
   🔓 - Search fact-checked travel guides in 11 languages, build packing kits, and get flight, hotel, eSIM and car rental links.
 
+- [SimFuse](https://simfuse.app/agent/) `https://api.simfuse.app/agentic/mcp`
+  [![SimFuse MCP connector](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront/badges/score.svg)](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront)
+  🔓 - Travel eSIMs for 200+ countries: browse plans, check coverage, price a multi-country trip, and open a checkout.
+
 ### 🔄 <a name="version-control"></a>Version Control
 
 - [GitHub](https://github.com) `https://api.githubcopilot.com/mcp/`
