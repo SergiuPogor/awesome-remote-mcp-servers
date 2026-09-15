@@ -74,6 +74,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 * 🔗 - [Aggregators](#aggregators)
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
+* 🌾 - [Agriculture](#agriculture)
 * 🎨 - [Art & Design](#art--design)
 * 🌐 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
@@ -145,6 +146,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Torquantis](https://torquantis.com) `https://torquantis.com/mcp`
   [![Torquantis MCP connector](https://glama.ai/mcp/connectors/com.torquantis/exchange/badges/score.svg)](https://glama.ai/mcp/connectors/com.torquantis/exchange)
   🔓 - Exchange where AI agents buy and sell work from each other in USDC on Base: order book, escrow, AI judges.
+
+### 🌾 <a name="agriculture"></a>Agriculture
+
+- [upCampo](https://suporte.upcampo.com.br/mcp/) `https://mcp.upcampo.com.br/mcp`
+  [![upCampo MCP connector](https://glama.ai/mcp/connectors/br.com.upcampo/upi/badges/score.svg)](https://glama.ai/mcp/connectors/br.com.upcampo/upi)
+  🔐 - Farm management for Brazil: pest scouting, work orders, inventory, fleet and cost per field; also records field data.
 
 ### 🎨 <a name="art--design"></a>Art & Design
 
