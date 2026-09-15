@@ -680,7 +680,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
-  🔑 - Australian property data: valuations, sale and rent history, comparable sales, schools, risk and zoning.
+  🔓 - Australian property data: valuations, sale and rent history, comparable sales, schools, risk and zoning. Connect anonymously for the sample suburbs; add a key for all 14,764.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
