@@ -97,6 +97,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 💳 - [Payments](#payments)
 * 📋 - [Project Management](#project-management)
 * 🏠 - [Real Estate](#real-estate)
+* 🔬 - [Science & Research](#science--research)
 * 🔎 - [Search & Data Extraction](#search--data-extraction)
 * 🔒 - [Security](#security)
 * 📣 - [Social Media](#social-media)
@@ -722,6 +723,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Microburbs](https://www.microburbs.com.au/developers/api-docs) `https://api.microburbs.com.au/mcp`
   [![Microburbs MCP connector](https://glama.ai/mcp/connectors/au.com.microburbs/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.microburbs/property-data)
   🔓 - Australian property data at street and block level: street price forecasts, crime below the suburb, sale and rent history, comparable sales, schools, zoning and hazard risk. Connect anonymously to browse the tools; send `Bearer test` for the sample suburbs, or your own key for all 14,764.
+
+### 🔬 <a name="science--research"></a>Science & Research
+
+- [Zetesis](https://api.zetesis.science/docs) `https://api.zetesis.science/mcp`
+  [![Zetesis MCP connector](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.reutavidan/zetesis)
+  🔓 - Due diligence on scientific claims, graded against the published record with a hard identifier on every source.
 
 ### 🔎 <a name="search--data-extraction"></a>Search & Data Extraction
 
