@@ -691,6 +691,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SceneF](https://scenef.com/agents) `https://scenef.com/mcp`
   [![SceneF MCP connector](https://glama.ai/mcp/connectors/com.scenef/showtimes/badges/score.svg)](https://glama.ai/mcp/connectors/com.scenef/showtimes)
   🔓 - Movie showtimes across 33 California and Hawaii boards, re-verified against each theater's own calendar.
+- [Transkriba](https://transkriba.ru/mcp) `https://transkriba.ru/api/mcp`
+  [![Transkriba MCP connector](https://glama.ai/mcp/connectors/ru.transkriba/transcription/badges/score.svg)](https://glama.ai/mcp/connectors/ru.transkriba/transcription)
+  🔓 - Transcribe Russian audio and video from files or URLs; transcription requires an API key.
 
 ### 💳 <a name="payments"></a>Payments
 
