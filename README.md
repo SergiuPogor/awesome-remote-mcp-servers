@@ -170,6 +170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read Figma files and turn frames and components into code.
 - [Made Good Designs](https://madegooddesigns.com/inspiration/) `https://madegooddesigns.com/inspiration/mcp`
   🔓 - Search a curated gallery of typography and brand-design inspiration with colour palettes, tags, and source links.
+- [OwlCAD](https://owlcad.com/mcp-server) `https://mcp.owlcad.com`
+  [![OwlCAD MCP connector](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad/badges/score.svg)](https://glama.ai/mcp/connectors/com.owlcad.mcp/owl-cad)
+  🔐 - Build editable parametric 3D parts, check printability, and export STL, 3MF or STEP.
 
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
