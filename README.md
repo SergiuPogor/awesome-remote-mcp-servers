@@ -726,6 +726,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [CoworkingView](https://coworkingview.com/en/mcp) `https://mcp.coworkingview.com/mcp`
+  [![CoworkingView MCP connector](https://glama.ai/mcp/connectors/com.coworkingview/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.coworkingview/mcp)
+  🔓 - Search verified coworking spaces and private offices in 62 cities, with operator-published prices and market rates.
+
 - [Evlek](https://evlek.app/mcp) `https://evlek.app/api/mcp`
   [![Evlek MCP connector](https://glama.ai/mcp/connectors/app.evlek/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/app.evlek/mcp-server)
   🔓 - Search active Northern Cyprus sale and rental listings and compare asking prices by city and district.
