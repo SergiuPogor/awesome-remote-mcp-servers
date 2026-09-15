@@ -639,7 +639,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [AssetFare](https://assetfare.dev) `https://api.assetfare.dev/mcp`
   [![AssetFare MCP connector](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare)
-  🔓 - Compare and prepare a capped, non-custodial Solana SOL to Base ETH route for caller-signed execution.
+  🔓 - Compare and prepare capped, non-custodial Solana SOL to Base or Arbitrum ETH routes for caller-signed execution.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [Paddle](https://paddle.com) `https://mcp.paddle.com/mcp`
