@@ -1001,7 +1001,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Search Intercom conversations, contacts, and help-center articles.
 
 ### 🚆 <a name="travel--transportation"></a>Travel & Transportation
-
+- [WhichTrim](https://whichtrim.com) `https://whichtrim.com/portal/mcp`
+  [![WhichTrim MCP connector](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records/badges/score.svg)](https://glama.ai/mcp/connectors/com.whichtrim/vehicle-records)
+  🔓 - US vehicle recalls, complaints, EPA fuel economy, crash ratings, VIN decode, service bulletins and OBD-II codes.
 - [Alice Flights](https://mcp.alice.co.il) `https://mcp.alice.co.il/mcp`
   [![Alice Flights MCP connector](https://glama.ai/mcp/connectors/il.co.alice/flights/badges/score.svg)](https://glama.ai/mcp/connectors/il.co.alice/flights)
   🔐 - Search worldwide flights from Alice, one of Israel's best-known travel apps, including Tel Aviv routes, with English and Hebrew results tagged best, cheapest, and fastest.
