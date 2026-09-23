@@ -1170,6 +1170,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ProxyCove](https://proxycove.com) `https://mcp.proxycove.com/mcp`
   [![ProxyCove MCP connector](https://glama.ai/mcp/connectors/com.proxycove/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.proxycove/mcp-server)
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries prepaid per GB; connect anonymously to read pricing and open an account, then use the returned key to buy proxies and get ready-to-use credentials.
+- [ReadGZH](https://readgzh.site) `https://api.readgzh.site/mcp-server`
+  [![ReadGZH MCP connector](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh)
+  🔓 - Read public WeChat Official Account articles as Markdown and search previously cached articles.
 - [Realask](https://realask.net) `https://realask.net/mcp`
   [![Realask MCP connector](https://glama.ai/mcp/connectors/io.github.danelas/realask/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.danelas/realask)
   🔓 - Verify facts about US local businesses by phone — stock, all-in price, availability — as typed answers with evidence.
