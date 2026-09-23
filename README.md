@@ -713,6 +713,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
   🔓 - Search, save, and set reminders in your personal library of saved links, posts, and notes. OAuth sign-in unlocks all tools.
+- [Mnemoverse](https://mnemoverse.com) `https://mcp.mnemoverse.com/mcp`
+  [![Mnemoverse MCP connector](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server)
+  🔐 - Persistent agent memory over MCP; tell it a recalled memory helped or misled and it re-ranks the next recall.
 - [NoteMCP](https://notemcp.com) `https://notemcp.com/mcp`
   [![NoteMCP MCP connector](https://glama.ai/mcp/connectors/com.notemcp/notemcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.notemcp/notemcp)
   🔐 - Give Claude and ChatGPT long-term memory: search, read and edit notes you saved by text, voice or share sheet.
