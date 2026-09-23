@@ -1069,6 +1069,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hourly LLM-ranked news briefings on AI, markets, sports, and world news as JSON and e-ink pages; paid tools via x402.
 - [Bright Data](https://brightdata.com) `https://mcp.brightdata.com/mcp`
   🔐 - Web scraping and SERP data through a managed proxy network.
+- [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
+  [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
+  🔐 - Web research across search, Reddit, YouTube, local businesses, reviews, ad libraries and more, with line-numbered citations.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Runs a defect scan against a software vendor's public claims and returns structured findings with evidence grades and a buyer-intake tool.
