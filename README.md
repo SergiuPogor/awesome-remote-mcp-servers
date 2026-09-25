@@ -768,6 +768,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [HeyYumi](https://heyyumi.ai) `https://mcp.heyyumi.ai/mcp`
   [![HeyYumi MCP connector](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi/badges/score.svg)](https://glama.ai/mcp/connectors/ai.heyyumi/heyyumi)
   🔐 - Search verified Korean restaurants and bars by filters, then request a table booking in chat.
+- [TableJourney](https://tablejourney.com/agents/) `https://tablejourney.com/mcp`
+  [![TableJourney MCP connector](https://glama.ai/mcp/connectors/com.tablejourney/food-travel/badges/score.svg)](https://glama.ai/mcp/connectors/com.tablejourney/food-travel)
+  🔓 - Verified restaurants, markets and street food in 200+ cities with provenance, food festivals with dates, bookable tours.
 - [bordeaux.guru](https://bordeaux.guru/mcp-server/) `https://mcp.bordeaux.guru/mcp`
   [![bordeaux.guru MCP connector](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur/badges/score.svg)](https://glama.ai/mcp/connectors/guru.bordeaux/en-primeur)
   🔓 - First-hand Bordeaux en primeur tasting notes, appellation climate, vine phenology and terroir geodata.
