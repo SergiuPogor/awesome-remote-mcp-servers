@@ -629,6 +629,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
   [![Kyrodata MCP connector](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata/badges/score.svg)](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata)
   🔐 - Brazilian exports and imports by HS code and partner, plus crop production, climate and commodity forecasts.
+- [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
+  [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
+  🔓 - Verify companies for AI agents: Dutch and Belgian registries (KVK, KBO/CBE), EU VAT via VIES, sanctions and PEP screening and a risk score; API key or x402 pay-per-call.
 - [LitVM TCG Oracle](https://litvm.the-undesirables.com) `https://litvm.the-undesirables.com/mcp`
   [![LitVM TCG Oracle MCP connector](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle/badges/score.svg)](https://glama.ai/mcp/connectors/com.the-undesirables.litvm/lit-vm-tcg-oracle)
   🔓 - TCG price oracle for the LitecoinVM ecosystem: Merkle-proven prices, calibrated forecasts, fantasy souls; 13 free tools.
