@@ -1197,6 +1197,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Autonomous AI developers on your own infrastructure: assign a task, the runner (Claude Code, Codex, OpenCode) works against your repo and tests and delivers a pull request to GitHub, GitLab or Bitbucket.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
+- [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
+  [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
+  🔐 - Manage issues, projects, sprints, docs and files with workspace-scoped OAuth.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - AI-native project boards, cockpit, and governed agent missions over hosted Streamable HTTP.
