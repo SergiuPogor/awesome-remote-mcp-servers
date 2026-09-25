@@ -664,6 +664,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Hundo](https://hundo.finance/connect) `https://hundo.finance/mcp`
   [![Hundo MCP connector](https://glama.ai/mcp/connectors/finance.hundo/hundo/badges/score.svg)](https://glama.ai/mcp/connectors/finance.hundo/hundo)
   🔐 - Your own ledger in your AI: net worth, accounts, budgets, holdings and IOUs, plus transactions and budgets your agent drafts and you confirm before anything is written; tools need a paid plan.
+- [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
+  [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
+  🔐 - Create invoices from your AI assistant and review them before sending. Start without creating an account.
 - [Jithox E-Invoice](https://jithox.com/mcp/einvoice) `https://mcp.jithox.com/mcp`
   [![Jithox E-Invoice MCP connector](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/com.jithox/einvoice-readiness)
   🔓 - Read-only EU e-invoice checks: invoice structure, VAT format, VIES and Peppol lookup; tool calls need OAuth sign-in.
