@@ -733,6 +733,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
   [![Kyrodata MCP connector](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata/badges/score.svg)](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata)
   🔐 - Brazilian exports and imports by HS code and partner, plus crop production, climate and commodity forecasts.
+- [Layerz](https://layerz.cc/for-agents) `https://layerz.cc/mcp`
+  [![Layerz MCP connector](https://glama.ai/mcp/connectors/cc.layerz.app/layerz/badges/score.svg)](https://glama.ai/mcp/connectors/cc.layerz.app/layerz)
+  🔐 - Build, version and audit structured financial models from your agent, and export them to Excel.
 - [LimitGuard](https://limitguard.ai) `https://api.limitguard.ai/mcp`
   [![LimitGuard MCP connector](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ai.limitguard.api/trust-intelligence)
   🔓 - Verify Dutch and Belgian companies (KVK, KBO), EU VAT, sanctions and PEPs, with a risk score; key or x402.
