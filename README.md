@@ -85,6 +85,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 📊 - [Data Visualization](#data-visualization)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🎓 - [Education](#education)
 * 🌳 - [Environment](#environment)
 * 📂 - [File Storage](#file-storage)
 * 💰 - [Finance](#finance)
@@ -738,6 +739,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [X402 Git](https://x402git.com) `https://x402git.com/api/mcp`
   [![X402 Git MCP connector](https://glama.ai/mcp/connectors/com.x402git/git-x402/badges/score.svg)](https://glama.ai/mcp/connectors/com.x402git/git-x402)
   🔓 - Search private git repos and agent skills for sale, read each free manifest, then buy with USDC over x402.
+
+### 🎓 <a name="education"></a>Education
+
+- [Underlayer](https://underlayerhq.com/docs/mcp) `https://underlayerhq.com/api/mcp`
+  [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
+  🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
 
 ### 🌳 <a name="environment"></a>Environment
 
