@@ -2393,6 +2393,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Realtime Sports API](https://www.realtimesportsapi.com/docs/mcp?utm_source=awesome-remote-mcp-servers) `https://www.realtimesportsapi.com/api/mcp`
   [![Realtime Sports API MCP connector](https://glama.ai/mcp/connectors/io.github.ahunter135/realtime-sports-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ahunter135/realtime-sports-api)
   🔓 - Live scores, play-by-play, schedules and odds for NFL, NCAA football, NBA, MLB, NHL and soccer; calls need a free key.
+- [StringSpec](https://stringspec.com/connect/) `https://stringspec.com/mcp`
+  [![StringSpec MCP connector](https://glama.ai/mcp/connectors/com.stringspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.stringspec/mcp)
+  🔓 - Lab measurements of nearly 800 tennis strings: search, compare and get string recommendations.
 - [Turnale](https://www.turnale.app) `https://mcp.turnale.app`
   [![Turnale MCP connector](https://glama.ai/mcp/connectors/app.turnale/turnale/badges/score.svg)](https://glama.ai/mcp/connectors/app.turnale/turnale)
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
