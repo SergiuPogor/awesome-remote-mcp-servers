@@ -335,6 +335,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
+- [Mailbox MCP](https://mailbox-mcp.com) `https://mcp.mailbox-mcp.com/db/mcp`
+  [![Mailbox MCP MCP connector](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailbox-mcp.mcp/mailbox-mcp)
+  🔐 - Read, search, file, draft and send email in your own Gmail, Outlook, Microsoft 365, iCloud or IMAP inbox.
 - [Mailcheer](https://mailcheer.com) `https://mailcheer.com/api/mcp`
   [![Mailcheer MCP connector](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer)
   🔓 - Send transactional email, manage subscribers and schedule campaigns; tool calls use a Mailcheer API key.
