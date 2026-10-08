@@ -1834,6 +1834,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ambolt](https://ambolt.dev) `https://api.ambolt.dev/mcp`
   [![Ambolt MCP connector](https://glama.ai/mcp/connectors/dev.ambolt/ambolt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ambolt/ambolt)
   🔓 - Company registers, tenders, rates and on-chain facts, with source and date on every answer.
+- [AnywhereRoles](https://anywhereroles.com/developers) `https://anywhereroles.com/mcp`
+  [![AnywhereRoles MCP connector](https://glama.ai/mcp/connectors/com.anywhereroles/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.anywhereroles/jobs)
+  🔓 - Search remote jobs by eligible country and time zone, plus companies and salaries; results link to original postings.
 - [Briefing Service](https://briefing-service.wholemind.workers.dev) `https://briefing-service.wholemind.workers.dev/mcp`
   [![Briefing Service MCP connector](https://glama.ai/mcp/connectors/io.github.jshelley/briefings/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jshelley/briefings)
   🔓 - Hourly briefings on AI, markets, sports and world news as JSON or e-ink pages; paid tools via x402.
