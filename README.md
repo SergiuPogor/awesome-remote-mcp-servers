@@ -2494,6 +2494,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Telegram Calendar](https://calendar-tg.app/mcp) `https://calendar-tg.app/mcp`
   [![Telegram Calendar MCP connector](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.calendar-tg/telegram-calendar-mcp)
   🔐 - Search, create, update and manage events across Google, Apple, CalDAV and Telegram.
+- [Telesherpa](https://www.telesherpa.com) `https://mcp.telesherpa.com/mcp`
+  [![Telesherpa MCP connector](https://glama.ai/mcp/connectors/com.telesherpa/ontology-platform/badges/score.svg)](https://glama.ai/mcp/connectors/com.telesherpa/ontology-platform)
+  🔐 - Ontology platform for facility management and field service; also a lightweight ERP/CRM.
 - [Tempi](https://meettempi.com/ai) `https://meettempi.com/mcp`
   [![Tempi MCP connector](https://glama.ai/mcp/connectors/com.meettempi/tempi/badges/score.svg)](https://glama.ai/mcp/connectors/com.meettempi/tempi)
   🔓 - Find open times on anyone's Tempi booking link and book, reschedule or cancel meetings, no account needed.
