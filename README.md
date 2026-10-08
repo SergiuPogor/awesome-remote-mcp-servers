@@ -2022,6 +2022,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Silicon Valley Atlas](https://svatlas.io) `https://svatlas.io/mcp`
   [![Silicon Valley Atlas MCP connector](https://glama.ai/mcp/connectors/io.svatlas/svatlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.svatlas/svatlas)
   🔐 - Search sourced profiles of AI startups, founders, funding and investors; rank likely buyers; manage outreach lists.
+- [SuperSend](https://supersend.io/agents) `https://mcp.supersend.io/mcp`
+  [![SuperSend MCP connector](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Ktryberceo/mcp-server)
+  🔐 - Cold email and LinkedIn sequences: build campaigns, import contacts, check deliverability and triage replies.
 
 ### 🔬 <a name="science--research"></a>Science & Research
 
