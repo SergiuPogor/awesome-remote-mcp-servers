@@ -1510,6 +1510,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Forge](https://forge.magery.ai) `https://forge.magery.ai/mcp`
   [![Forge MCP connector](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery/badges/score.svg)](https://glama.ai/mcp/connectors/ai.magery.forge/forge-magery)
   🔓 - Security audits of shipped code, in plain English.
+- [Lattice](https://lattice.namiq.io) `https://lattice.namiq.io/mcp`
+  [![Lattice MCP connector](https://glama.ai/mcp/connectors/io.namiq/lattice/badges/score.svg)](https://glama.ai/mcp/connectors/io.namiq/lattice)
+  🔓 - CVE, KEV, ATT&CK, CWE and detection graph; links marked declared or inferred. 3 tools keyless, all 7 with a free key.
 - [Malinois](https://malinois.app) `https://malinois.app/mcp`
   [![Malinois MCP connector](https://glama.ai/mcp/connectors/app.malinois/scan/badges/score.svg)](https://glama.ai/mcp/connectors/app.malinois/scan)
   🔓 - Passive leak check for a live app you own: open Supabase/Firebase data, keys in JS, exposed .env/.git.
