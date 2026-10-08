@@ -2684,6 +2684,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [RemoveDuplicates.org](https://removeduplicates.org/) `https://removeduplicates.org/mcp`
   [![RemoveDuplicates.org MCP connector](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg/badges/score.svg)](https://glama.ai/mcp/connectors/org.removeduplicates/remove-duplicatesorg)
   🔓 - Remove duplicate lines or CSV/TSV rows; stateless, text is never stored.
+- [SerialHunt](https://bigballi.com/SerialHunt/connect) `https://bigballi.com/SerialHunt/mcp`
+  [![SerialHunt MCP connector](https://glama.ai/mcp/connectors/com.bigballi/serialhunt/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/serialhunt)
+  🔓 - US bill serial numbers: star note print runs from government figures and fancy serial patterns with exact odds.
 - [SpinWheelNames](https://spinwheelnames.com) `https://spinwheelnames.com/mcp`
   [![SpinWheelNames MCP connector](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.heyiamluke/spinwheelnames)
   🔓 - Spin random name picker wheels, pick random numbers, and search or open shared wheels.
