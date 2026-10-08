@@ -2455,6 +2455,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AI Rollout Framework](https://airolloutframework.com) `https://airolloutframework.com/mcp`
   [![AI Rollout Framework MCP connector](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework/badges/score.svg)](https://glama.ai/mcp/connectors/com.airolloutframework/ai-rollout-framework)
   🔓 - 90-day AI adoption framework for managers: overview, pricing, FAQ and an AI readiness assessment.
+- [Atako](https://docs.atako.ai/developers/mcp/overview) `https://api.atako.ai/mcp`
+  [![Atako MCP connector](https://glama.ai/mcp/connectors/ai.atako/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.atako/mcp)
+  🔑 - Run your company's AI agents: chat, projects and kanban, files, integrations, email and webhooks.
 - [Bramvia](https://bramvia.net/mcp-server) `https://bramvia.net/mcp`
   [![Bramvia MCP connector](https://glama.ai/mcp/connectors/net.bramvia/bramvia/badges/score.svg)](https://glama.ai/mcp/connectors/net.bramvia/bramvia)
   🔓 - Business Central knowledge, NAV lifecycle dates, ERP migration estimates and compliance deadlines.
