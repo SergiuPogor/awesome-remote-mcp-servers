@@ -2391,7 +2391,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - NFL and NBA fantasy rankings and player projections, with weekly NFL and season-long data.
 - [Coach MCP](https://www.iamcoach.ai/mcp) `https://mcp.iamcoach.ai`
   [![Coach MCP connector](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.iamcoach.mcp/coach-mcp)
-  🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries.
+  🔐 - Read your endurance training data, recovery metrics and plan, and move workouts or log injuries from your assistant.
+- [OpenMapp](https://www.openmapp.com) `https://www.openmapp.com/mcp`
+  [![OpenMapp MCP connector](https://glama.ai/mcp/connectors/com.openmapp/openmapp/badges/score.svg)](https://glama.ai/mcp/connectors/com.openmapp/openmapp)
+  🔓 - Find US BJJ gyms with weekly schedules, open mats, and visitor drop-in prices.
 
 - [Football Charts](https://www.football-charts.com/developers) `https://mcp.football-charts.com/mcp`
   [![Football Charts MCP connector](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddevetak/footballcharts-mcp)
