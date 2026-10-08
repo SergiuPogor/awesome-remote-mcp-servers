@@ -1947,6 +1947,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SnoopScan](https://snoopscan.com) `https://api.snoopscan.com/mcp-oauth`
   [![SnoopScan MCP connector](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.snoopscan/snoopscan)
   🔐 - Scrape, crawl, map and search the web as clean markdown, with schema-validated extraction.
+- [Sourcey](https://sourcey.com) `https://mcp.sourcey.com/mcp`
+  [![Sourcey MCP connector](https://glama.ai/mcp/connectors/com.sourcey/sourcey/badges/score.svg)](https://glama.ai/mcp/connectors/com.sourcey/sourcey)
+  🔓 - Search and compare startup credits and offers, inspect their evidence, and read Agent Readiness grades.
 - [Statsnet](https://statsnet.co) `https://statsnet.co/mcp`
   [![Statsnet MCP connector](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usenetstate/statsnet)
   🔓 - Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.
