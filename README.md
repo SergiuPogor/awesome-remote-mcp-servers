@@ -1451,6 +1451,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### ⚖️ <a name="legal"></a>Legal
 
+- [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
+  [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
+  🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
 - [Common Paper](https://commonpaper.com) `https://api.commonpaper.com/mcp`
   [![Common Paper MCP connector](https://glama.ai/mcp/connectors/com.commonpaper/contracts/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonpaper/contracts)
   🔐 - Create agreements from standard templates, send them for signature, and track status and history.
