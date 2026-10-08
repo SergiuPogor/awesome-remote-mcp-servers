@@ -914,6 +914,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Beyond Payday](https://beyondpayday.com/mcp) `https://beyondpayday.com/api/mcp`
   [![Beyond Payday MCP connector](https://glama.ai/mcp/connectors/com.beyondpayday/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.beyondpayday/mcp)
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
+- [BillWatch](https://getbillwatchdog.com) `https://getbillwatchdog.com/mcp`
+  [![BillWatch MCP connector](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch)
+  🔓 - Search current US streaming and VPN plan prices and price history, with links to each provider.
 - [Bitquery](https://bitquery.io/products/bitquery-mcp-server) `https://mcp.bitquery.io`
   [![Bitquery MCP connector](https://glama.ai/mcp/connectors/io.bitquery/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.bitquery/mcp)
   🔐 - Crypto investigations and trading data: fund tracing, address labels, AML risk, DEX trades, OHLCV and trader PnL.
