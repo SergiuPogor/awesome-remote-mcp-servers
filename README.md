@@ -818,6 +818,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Underlayer MCP connector](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer/badges/score.svg)](https://glama.ai/mcp/connectors/com.underlayerhq/underlayer)
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
 
+### 🎓 <a name="education"></a>Education
+
+- [Rotate Pilot](https://rotatepilot.com/developers/mcp) `https://rotatepilot.com/api/mcp`
+  [![Rotate Pilot MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot)
+  🔓 - FAA drone (Part 107) and pilot exam prep: practice questions, readiness diagnostic, METAR/TAF, drone airspace.
+
 ### 🌳 <a name="environment"></a>Environment
 
 - [Aevia](https://aeviamodeler.ai/mcp?src=awesome-remote) `https://app.aeviamodeler.ai/api/v1/connector/mcp`
