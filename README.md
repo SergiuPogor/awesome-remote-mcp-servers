@@ -799,6 +799,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
+- [iDevice](https://idevice.com) `https://idevice.com/api/mcp`
+  [![iDevice MCP connector](https://glama.ai/mcp/connectors/com.idevice/wearables/badges/score.svg)](https://glama.ai/mcp/connectors/com.idevice/wearables)
+  🔓 - Wearable and phone prices, specs, compatibility, release dates and sourced reports for buyers.
 - [Nexez](https://nexez.ai/agents) `https://nexez.app/mcp`
   🔓 - Search merchants, inspect offers, and validate checkout or negotiation before buying.
 - [NotRobophobic Shop](https://notrobo.shop) `https://notrobo.shop/mcp/shop`
