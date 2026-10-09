@@ -2098,6 +2098,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![TrueFixR + AtlasCast MCP connector](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr)
   🔓 - Address-level storm event data and forecasted property risk API for AI agents.
 
+- [Tradehand](https://tradehand.com) `https://tradehand.com/api/mcp`
+  [![Tradehand MCP connector](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Humanleap/tradehand)
+  🔓 - Find local UK tradespeople, inspect real listings and service options, and return public profile links.
 ### 🚗 <a name="sales"></a>Sales
 
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
