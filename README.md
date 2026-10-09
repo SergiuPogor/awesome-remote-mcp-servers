@@ -2177,6 +2177,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Picked by Agents Research Network](https://pickedbyagents.com/join) `https://pickedbyagents.com/research-api/mcp`
   [![Picked by Agents Research Network MCP connector](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network)
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
+- [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
+  [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
+  🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
