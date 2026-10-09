@@ -2175,6 +2175,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Locate Jobs Network](https://locatejobsnetwork.com) `https://locatejobsnetwork.com/api/mcp`
   [![Locate Jobs Network MCP connector](https://glama.ai/mcp/connectors/com.locatejobsnetwork/search-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.locatejobsnetwork/search-jobs)
   🔓 - Search live U.S. jobs on 20 niche job boards and get checked unemployment answers for 13 states.
+- [looot](https://looot.ai) `https://api.looot.ai/mcp`
+  [![looot MCP connector](https://glama.ai/mcp/connectors/ai.looot/looot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.looot/looot)
+  🔐 - Search, price and run 2,500+ data endpoints from 90+ providers with one key and a prepaid balance.
 - [MAC Address Lookup](https://mac.jasontally.com) `https://mac.jasontally.com/mcp`
   [![MAC Address Lookup MCP connector](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup/badges/score.svg)](https://glama.ai/mcp/connectors/com.jasontally.mac/mac-address-lookup)
   🔓 - Find the organization behind a MAC address or OUI prefix in the complete IEEE MA-L, MA-M, MA-S, IAB, and CID registries.
