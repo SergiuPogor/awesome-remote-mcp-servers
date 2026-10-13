@@ -370,7 +370,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 - [CurlShot](https://curlshot.com/docs?utm_source=awesome-mcp&utm_medium=listing&utm_campaign=dist-q4) `https://curlshot.com/api/mcp`
   [![CurlShot MCP connector](https://glama.ai/mcp/connectors/io.github.SergiuPogor/curlshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SergiuPogor/curlshot)
-  🔑 - Screenshot any URL to PNG, JPEG, WebP, PDF or scrolling video; full page, devices, dark mode.
+  🔓 - Screenshot any URL to PNG, JPEG, WebP, PDF or scrolling video, full page or dark mode; needs a free API key.
 
 - [Framejet](https://framejet.dev) `https://framejet.dev/mcp`
   [![Framejet MCP connector](https://glama.ai/mcp/connectors/dev.framejet/screenshot/badges/score.svg)](https://glama.ai/mcp/connectors/dev.framejet/screenshot)
