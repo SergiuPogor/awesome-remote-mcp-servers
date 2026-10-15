@@ -1485,6 +1485,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stoxly](https://www.stoxlyonline.com/mcp) `https://www.stoxlyonline.com/api/mcp`
   [![Stoxly MCP connector](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wizard-exe/stoxly)
   🔓 - Free stock and ETF fundamental analysis: 10-criteria score, verdict, and key metrics for any ticker.
+- [SwapWallet](https://swapwallet.app/docs/mcp) `https://swapwallet.app/mcp`
+  [![SwapWallet MCP connector](https://glama.ai/mcp/connectors/app.swapwallet/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.swapwallet/mcp)
+  🔐 - Read balances, P&L and history; request swaps, transfers and withdrawals that the user approves in Telegram.
 - [Synci](https://synci.io) `https://api.synci.io/mcp`
   [![Synci MCP connector](https://glama.ai/mcp/connectors/io.synci/synci/badges/score.svg)](https://glama.ai/mcp/connectors/io.synci/synci)
   🔐 - Read-only bank, brokerage and crypto accounts: balances, transactions, holdings and connection health.
