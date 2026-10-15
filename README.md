@@ -2631,6 +2631,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
   [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
   🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
+- [Ragfeed](https://ragfeed.de/claude) `https://api.ragfeed.de/mcp`
+  [![Ragfeed MCP connector](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LeifAlbrand/ragfeed)
+  🔐 - Web pages, PDFs and search results as LLM-ready Markdown or vector-DB chunks; Firecrawl-compatible API.
 - [ReadGZH](https://readgzh.site) `https://api.readgzh.site/mcp-server`
   [![ReadGZH MCP connector](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.sweesama/readgzh)
   🔓 - Read public WeChat Official Account articles as Markdown and search previously cached articles.
