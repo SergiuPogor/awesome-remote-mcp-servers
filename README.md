@@ -938,6 +938,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tenmomo](https://tenmomo.com) `https://tenmomo.com/mcp`
   [![Tenmomo MCP connector](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenmomo/tenmomo)
   🔓 - Search 2,700+ US stores for cashback rates and live coupon codes, and get tracked store links.
+- [Tiana & Co. Seller Compliance](https://www.tiana-co.com/for-ai) `https://www.tiana-co.com/api/mcp`
+  [![Tiana & Co. Seller Compliance MCP connector](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.1294962213sh/tiana-co-free-checks)
+  🔓 - Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blacklists, customs holds.
 - [Vendwiser](https://vendwiser.ai) `https://app.vendwiser.ai/mcp`
   [![Vendwiser MCP connector](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser/badges/score.svg)](https://glama.ai/mcp/connectors/ai.vendwiser/vendwiser)
   🔐 - Run an eMAG Romania seller account and Oblio invoicing: offers, orders, AWBs, invoices, with approval on every change.
