@@ -2490,6 +2490,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Verifier](https://packet.guru/agents/mcp) `https://fp.packet.guru/api/v1/mcp`
   [![Agent Verifier MCP connector](https://glama.ai/mcp/connectors/guru.packet/agent-verifier/badges/score.svg)](https://glama.ai/mcp/connectors/guru.packet/agent-verifier)
   🔓 - Test and debug your AI agent's Web Bot Auth (RFC 9421) signature and see exactly what to fix.
+- [AgentGlass](https://agentglass.net) `https://agentglass.net/mcp`
+  [![AgentGlass MCP connector](https://glama.ai/mcp/connectors/net.agentglass/agentglass/badges/score.svg)](https://glama.ai/mcp/connectors/net.agentglass/agentglass)
+  🔓 - Scans a public URL for hidden instructions aimed at AI agents and returns a risk level with evidence.
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
@@ -2572,6 +2575,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Weio site check](https://weio.ai/services/site-check-api.html?utm_source=github&utm_medium=list&utm_campaign=awesome-mcp) `https://weio.ai/mcp`
   [![Weio site check MCP connector](https://glama.ai/mcp/connectors/ai.weio/site-check/badges/score.svg)](https://glama.ai/mcp/connectors/ai.weio/site-check)
   🔓 - HTTPS certificate check and published business facts (CMS, mobile viewport, role emails, phones) for any site.
+
 
 ### 📣 <a name="social-media"></a>Social Media
 
