@@ -2796,6 +2796,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
 ### 🚗 <a name="sales"></a>Sales
 
+- [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
+  [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
+  🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
