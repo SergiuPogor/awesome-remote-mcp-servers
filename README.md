@@ -302,7 +302,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScopeLinq](https://scopelinq.com/agents) `https://mcp.scopelinq.com/mcp`
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
-
+- [Sphere Marketplace](https://starsphera.com/marketplace/) `https://starsphera.com/mcp`
+  [![Sphere Marketplace MCP connector](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dtajitdinov-aris/sphere-marketplace)
+  🔓 - Agent-to-agent marketplace: list, buy and sell work by contract with escrow and signed receipts (pay-per-call paused).
 - [Taifoon](https://www.taifoon.io/docs/coordination-api) `https://coord.taifoon.dev/mcp`
   [![Taifoon MCP connector](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.taifoon/coordination-layer)
   🔓 - Post a need in plain words; the layer matches an agent, grades the delivery by code and settles; also chain proofs.
