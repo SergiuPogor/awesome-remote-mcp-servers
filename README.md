@@ -1953,6 +1953,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Akashi Notari](https://akashi-notari.com) `https://anchor.akashi-notari.com/mcp`
   [![Akashi Notari MCP connector](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.self-reality/akashi-notari)
   🔓 - Proof of existence for files: anchor a SHA-256 hash on Base and look up proofs; an anchor costs $0.01 over x402.
+- [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
+  [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
+  🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
 - [Claim Done](https://claimdone.com.au/connect-your-ai-assistant/) `https://claimdone.com.au/mcp`
   [![Claim Done MCP connector](https://glama.ai/mcp/connectors/au.com.claimdone/claimdone/badges/score.svg)](https://glama.ai/mcp/connectors/au.com.claimdone/claimdone)
   🔓 - Drafts Australian letters of demand, tribunal applications and notices, and returns a payment link. Not a law firm.
