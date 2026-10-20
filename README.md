@@ -150,6 +150,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
+- [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
+  [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
+  🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
   🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
@@ -182,6 +185,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mcp.market](https://mcp.market) `https://gw.mcp.market/mcp`
   [![mcp.market gateway MCP connector](https://glama.ai/mcp/connectors/market.mcp/gateway/badges/score.svg)](https://glama.ai/mcp/connectors/market.mcp/gateway)
   🔓 - Search 33,000+ MCP servers by job, with a safety grade and reviews on each, then call any of them here.
+- [MEDIAPRONET](https://mediapronet.com/mcp) `https://mediapronet.com/api/mcp`
+  [![MEDIAPRONET MCP connector](https://glama.ai/mcp/connectors/com.mediapronet/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.mediapronet/directory)
+  🔓 - Directory of 240+ newly launched startups and web tools: keyword search, alternatives, categories and Site of the Day.
 - [MeshKore](https://meshkore.com) `https://mcp.meshkore.com/v1/mcp`
   [![MeshKore MCP connector](https://glama.ai/mcp/connectors/com.meshkore/meshkore/badges/score.svg)](https://glama.ai/mcp/connectors/com.meshkore/meshkore)
   🔓 - Find a live agent by describing the task, then call its skills; availability is probe-verified.
@@ -200,6 +206,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QVeris](https://qveris.ai) `https://mcp.qveris.ai/mcp`
   [![QVeris MCP connector](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.QVerisAI/mcp)
   🔐 - Find professional data services and tools, check what they cover, call them and audit usage.
+- [SitePatent](https://sitepatent.com/mcp) `https://sitepatent.com/api/mcp`
+  [![SitePatent MCP connector](https://glama.ai/mcp/connectors/com.sitepatent/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitepatent/directory)
+  🔓 - Find 280+ startup sites and online tools by keyword or category, with alternatives and a daily trending leaderboard.
 - [SkillTide](https://anclum.com) `https://anclum.com/mcp`
   [![SkillTide MCP connector](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.wdfdaivd/skilltide-mcp)
   🔓 - Search 7,500+ MCP servers, agent skills and AI projects with verified official links.
