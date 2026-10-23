@@ -675,6 +675,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Keepp](https://keepp.link/developers) `https://api.keepp.link/mcp`
   [![Keepp MCP connector](https://glama.ai/mcp/connectors/link.keepp/keepp/badges/score.svg)](https://glama.ai/mcp/connectors/link.keepp/keepp)
   🔐 - Build and edit a Keepp page (links, shop, bookings, forms) at keepp.link/yourname.
+- [Kleap](https://kleap.co/mcp) `https://kleap.co/api/mcp`
+  [![Kleap MCP connector](https://glama.ai/mcp/connectors/co.kleap/kleap/badges/score.svg)](https://glama.ai/mcp/connectors/co.kleap/kleap)
+  🔓 - Build, edit, publish and manage real websites and web apps from your AI agent.
 - [Lediv](https://lediv.com) `https://lediv.app/mcp`
   [![Lediv MCP connector](https://glama.ai/mcp/connectors/app.lediv/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.lediv/mcp)
   🔐 - Visual website builder synced with real code: edit files, publish, roll back, manage domains and previews.
