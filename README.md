@@ -3376,6 +3376,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Callejear Madrid](https://callejear.com/mcp/) `https://callejear.com/api/mcp`
   [![Callejear Madrid MCP connector](https://glama.ai/mcp/connectors/com.callejear/madrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.callejear/madrid)
   🔓 - Search Madrid's 9,400 official streets and compare partial service counts within 500 m; read-only.
+- [call402](https://call402.com) `https://call402.com/mcp`
+  [![call402 MCP connector](https://glama.ai/mcp/connectors/io.github.lgs1520/call402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lgs1520/call402)
+  🔓 - MCP access to structured data utilities and 12 x402 pay-per-call API endpoints on Base.
 - [CareJobs.Now](https://carejobs.now/data) `https://carejobs.now/api/mcp`
   [![CareJobs.Now MCP connector](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/now.carejobs/healthcare-jobs)
   🔓 - Search 170,000+ open US healthcare jobs at 258 hospitals and health systems, with the pay each one posts.
