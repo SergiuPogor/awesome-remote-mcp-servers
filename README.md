@@ -3174,6 +3174,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CityAlert](https://cityalert.live) `https://cityalert.live/.well-known/mcp`
   [![CityAlert MCP connector](https://glama.ai/mcp/connectors/live.cityalert/cityalert/badges/score.svg)](https://glama.ai/mcp/connectors/live.cityalert/cityalert)
   🔓 - Live public-safety incidents and safety news from 650+ official feeds; filter by city, region or bbox.
+- [CrawlerData](https://crawlerdata.com) `https://api.crawlerdata.com/mcp`
+  [![CrawlerData MCP connector](https://glama.ai/mcp/connectors/com.crawlerdata/google-shopping-serp/badges/score.svg)](https://glama.ai/mcp/connectors/com.crawlerdata/google-shopping-serp)
+  🔐 - Google Search results with AI Overviews and their cited sources, plus News, Images, Local and Shopping data.
 - [CuratorSearch](https://curatorsearch.com/developers) `https://curatorsearch.com/mcp`
   [![CuratorSearch MCP connector](https://glama.ai/mcp/connectors/com.curatorsearch/jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.curatorsearch/jobs)
   🔓 - Search live museum and curatorial jobs, one institution's openings, and the sector's pay-transparency rate.
