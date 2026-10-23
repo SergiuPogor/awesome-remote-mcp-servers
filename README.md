@@ -2365,6 +2365,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Formgong](https://formgong.com) `https://formgong.com/mcp`
   [![Formgong MCP connector](https://glama.ai/mcp/connectors/com.formgong/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.formgong/mcp)
   🔓 - Create contact forms and get HTML/React/Next.js snippets; discovery is open, every tool call needs a sign-in.
+- [Formquote](https://pcba-quote-lab.pages.dev/en/) `https://formquote-mcp.chen-yu-d1.workers.dev/mcp`
+  [![Formquote MCP connector](https://glama.ai/mcp/connectors/io.github.Keith-CY/formquote-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keith-CY/formquote-mcp)
+  🔓 - Compare email verification credit prices, sound-effect licences and font licences from a live public catalogue.
 - [FoxForm](https://foxform.app) `https://mcp.foxform.app/mcp`
   [![FoxForm MCP connector](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form/badges/score.svg)](https://glama.ai/mcp/connectors/app.foxform.mcp/fox-form)
   🔓 - Build scored forms, quizzes and calculators, publish them, and read responses with per-screen analytics.
