@@ -153,6 +153,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
+- [CodeTrendy](https://codetrendy.com/mcp) `https://codetrendy.com/api/mcp`
+  [![CodeTrendy MCP connector](https://glama.ai/mcp/connectors/com.codetrendy/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.codetrendy/directory)
+  🔓 - Search 650+ reviewed SaaS, AI and developer tools, find alternatives to a product and browse trending launches.
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
   🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
